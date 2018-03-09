@@ -1,3 +1,3 @@
 # HistoryService
-HistoryService will have API's which will interact with ElasticSearch to give History
+HistoryService will have API's which will interact with MongoDB to give History
 Still in designing stage
